@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="dwes.in" tvg-logo="" group-title="Notícias",DW Español (720p)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_es@124422/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="france24es.in" tvg-logo="" group-title="Notícias",France 24 Español (720p)
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="guardian.uk" tvg-logo="" group-title="Notícias",Rakuten TV The Guardian (720p)
+https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
