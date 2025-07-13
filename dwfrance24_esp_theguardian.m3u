@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guide_es.xml.gz,https://iptv-org.github.io/epg/guide_gb.xml.gz"
+
+#EXTINF:-1 tvg-id="dwespanol.es" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/DW_Logo.svg" group-title="Notícias",DW Español
+https://iptv-org.github.io/streams/dw_es_es.m3u8
+
+#EXTINF:-1 tvg-id="france24es.es" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/France_24_Logo.png" group-title="Notícias",France 24 Español
+https://iptv-org.github.io/streams/france24_es.m3u8
+
+#EXTINF:-1 tvg-id="guardian.uk" tvg-name="The Guardian (Rakuten TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Guardian_logo.svg" group-title="Entretenimento",The Guardian
+https://iptv-org.github.io/streams/rakutenguardian.m3u8
